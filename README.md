@@ -39,16 +39,19 @@
 
   <tr>
     <td colspan="4"><b>Description</b></td>
-    <td colspan="4"><b>Outcome</b></td>
   </tr>
   <tr>
     <td colspan="4">
       <p></p>
       <p>E-learning company is a company that offers online learning platform for web and mobile development. They also cover many other domains, like data science, game development, etc. They are seeking to promote thier products and by investing some money in advertisement. The objective is to find the two best markets to promote and advertise their products in. The company sells subscriptions at a price of 59 USD per month.</p>
     </td>
+    
+  <tr>
+    <td colspan="4"><b>Outcome</b></td>
+  </tr>
+  </tr>
     <td colspan="4">
       <p></p>
       <p>US and India are the two best markets to advertise in. US has the highest number of audiences who are interested in web/mobile development with the highest mean spending budget among other countries, followed by India, the second highest number of audiences and mean spending budget. Both US and India are the two countries that have the highest proportion of audiences spending above 59 USD.</p>
     </td>
-  </tr>
 </table>
